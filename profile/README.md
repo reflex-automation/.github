@@ -8,11 +8,11 @@ Red Hat stopped developing EDA as a supported open-source product and now
 uses the code as the internal upstream of Ansible Automation Platform.
 Reflex tracks the ansible/* repos as friendly forks: the patch set stays
 small, upstream merges happen regularly, CVEs get patched, and every
-release is smoke-tested end to end against Ascender — a webhook-triggered
-rulebook activation launching a real job template.
+release is smoke-tested end to end against Ascender: a webhook-triggered
+rulebook activation launches a real job template.
 
 Internal identifiers (`aap_eda`, `/api/eda/v1`, `EDA_*` settings) keep
-their upstream names so merges stay clean — the same model Ascender uses
+their upstream names so merges stay clean, the same model Ascender uses
 with AWX.
 
 ## Repos
