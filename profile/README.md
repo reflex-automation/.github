@@ -25,7 +25,7 @@ with AWX.
 | [reflex-decision-environment](https://github.com/reflex-automation/reflex-decision-environment) | Decision environment container image | — |
 
 [ansible-rulebook](https://github.com/ansible/ansible-rulebook) is not
-forked — Red Hat still maintains it. It's pinned in the decision
+forked; Red Hat still maintains it. It's pinned in the decision
 environment image.
 
 ## Getting started
