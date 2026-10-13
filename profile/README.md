@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/reflex-automation/.github/main/profile/reflex-logo.svg" alt="Reflex" width="220">
 
-Reflex is a community-maintained continuation of Event-Driven Ansible
+Reflex is a community-maintained fork of Event-Driven Ansible
 (EDA) that targets open-source AWX-compatible controllers, mainly
 [CIQ Ascender](https://ciq.com/products/ascender).
 
